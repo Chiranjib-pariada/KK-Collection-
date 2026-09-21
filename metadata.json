@@ -1,0 +1,6 @@
+{
+  "name": "KK COLLECTION",
+  "description": "KK COLLECTION — Every Drape, A Story. Premium Indian traditional sarees, Pata sarees, dress materials, and luxury ethnic fabrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
